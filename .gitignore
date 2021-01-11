@@ -1,6 +1,9 @@
 # Data
 data/
 
+# Result
+result/
+
 # graphviz
 *.dot
 
